@@ -44,8 +44,7 @@ const insults = [
    
 // получение поля ввода
 const inputField = document.querySelector('.input-message-input');
-// const toArrInputField = Array.from(inputField);
-// const inputFieldFromArray = toArrInputField[0];
+
 // получение кнопки отправки сообщения
 const sendMessageButton = document.querySelectorAll('.btn-icon');
 const toArrSendMessageButton = Array.from(sendMessageButton);
